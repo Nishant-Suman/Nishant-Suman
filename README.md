@@ -1,39 +1,38 @@
-<h1 align="center">Hi 👋, I'm R.M. Nishant Suman</h1>
-<h3 align="center">AI & Machine Learning Engineer | Drone Tech Innovator | DevOps Practitioner</h3>
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+R.M.+Nishant+Suman;AI+%26+Machine+Learning+Engineer;Drone+Tech+Innovator;DevOps+Practitioner;Building+Intelligent+Systems+🚀" />
+</p>
 
 <!-- Profile Image -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/194921555?v=4"
-       width="180"
+       width="170"
        style="border-radius:50%;"
        alt="Nishant Suman"/>
 </p>
 
 <!-- Profile Views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishant-suman&label=Profile%20Views&color=0e75b6&style=flat"
+  <img src="https://komarev.com/ghpvc/?username=nishant-suman&label=Profile%20Views&color=blue&style=flat"
        alt="Profile Views" />
 </p>
 
-<hr>
+---
 
-<h2>🚀 About Me</h2>
+## 🚀 About Me
 
-<ul>
-<li>🔭 I’m currently working on <b>Artificial Emotion Intelligence System</b></li>
-<li>🌱 I’m currently learning <b>Advanced DevOps, Kubernetes, MLOps & Scalable AI Deployment</b></li>
-<li>👯 I’m looking to collaborate on <b>AI + Drone Automation Projects</b></li>
-<li>🤝 I’m looking for help with <b>Scaling AI systems using Docker, CI/CD & Cloud</b></li>
-<li>💬 Ask me about <b>Python, Machine Learning, Deep Learning, Drone Tech & DevOps</b></li>
-<li>📫 Reach me at: <b>rmnishantsuman@gmail.com</b></li>
-<li>📄 Know about my experiences: 
-<a href="https://www.linkedin.com/in/r-m-nishant-suman-a82b092a5/" target="_blank">LinkedIn Profile</a></li>
-<li>⚡ Fun fact: <b>I enjoy turning crazy tech ideas into real-world prototypes 🚀</b></li>
-</ul>
+- 🔭 Working on **Artificial Emotion Intelligence System**
+- 🌱 Learning **Advanced DevOps, Kubernetes & MLOps**
+- 👯 Collaborating on **AI + Drone Automation**
+- 🤝 Seeking help in **Scaling AI using Docker, CI/CD & Cloud**
+- 💬 Ask me about **Python, ML, Deep Learning & DevOps**
+- 📫 Email: **rmnishantsuman@gmail.com**
+- 📄 LinkedIn: https://www.linkedin.com/in/r-m-nishant-suman-a82b092a5/
+- ⚡ Fun fact: *I turn tech ideas into real-world prototypes 🚀*
 
-<hr>
+---
 
-<h2>🌐 Connect With Me</h2>
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/r-m-nishant-suman-a82b092a5/" target="_blank">
@@ -53,34 +52,27 @@
 </a>
 </p>
 
-<hr>
+---
 
-<h2>🛠️ Languages and Tools</h2>
+## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,docker,kubernetes,git,linux,tensorflow,pytorch,opencv,mysql,postgresql,aws,azure,gcp" />
 </p>
 
-<hr>
+---
 
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Stats (Stable Version)
 
 <p align="center">
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nishant-suman&show_icons=true&theme=tokyonight" /> -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-suman&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=nishant-suman&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-suman&layout=compact&theme=tokyonight" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishant-suman&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishant-suman&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishant-suman&theme=github_dark" />
 </p>
