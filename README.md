@@ -16,7 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=nishant-suman&label=Profile%20Views&color=blue&style=flat"
        alt="Profile Views" />
 </p>
-> 💜 **Nothing is impossible, we just need to understand better**
 ---
 
 ## 🚀 About Me
