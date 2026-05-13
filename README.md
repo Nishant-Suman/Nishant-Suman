@@ -4,22 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00BFFF,100:7F5AF0&height=260&section=header&text=R.M.%20Nishant%20Suman&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Drone%20Technology%20%7C%20DevOps&descAlignY=58&descAlign=50" width="100%" />
 </p>
 
-<!-- ========================= TYPING HEADER ========================= -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+R.M.+Nishant+Suman;AI+%26+Machine+Learning+Engineer;Drone+Tech+Innovator;DevOps+Practitioner;Building+Intelligent+Systems+🚀;TensorFlow+%7C+Docker+%7C+Kubernetes+%7C+MLOps" />
-</p>
-
-<!-- ========================= PROFILE IMAGE ========================= -->
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/194921555?v=4"
-       width="180"
-       style="border-radius:50%; border:4px solid #00BFFF;"
-       alt="Nishant Suman"/>
-</p>
-
-
 
 <!-- Animated Typing Header -->
 <p align="center">
